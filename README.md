@@ -14,3 +14,5 @@ netlify deploy --prod --dir .
 ```
 
 Drop `--prod` to get a draft deploy on a unique preview URL instead of updating production.
+
+Live: https://nexxen-dashboard-demo.netlify.app
